@@ -1,0 +1,28 @@
+Dashboard — Freeware License
+
+Copyright (c) 2026 PacketLoss935. All rights reserved.
+
+The Dashboard app (the installer, the portable zip and the AppImage published at
+https://github.com/PacketLoss935/dashboard-releases) is free of charge. You may:
+
+  - download, install and use it, for personal or commercial purposes;
+  - share the unmodified download files, or a link to them, with others, free of charge.
+
+You may not:
+
+  - sell it, or bundle it with something you sell;
+  - pass off modified copies of it, or of its files, as the original, or publish them
+    under another name.
+
+Third-party components. The app includes open-source software (such as Python, Qt,
+React and their dependencies), listed with their licenses in THIRD_PARTY_NOTICES.txt,
+which comes with every download. Those components are licensed to you under their own
+terms, not under this license, and nothing here limits the rights those licenses give
+you. In particular, the Qt libraries in the Linux AppImage are licensed under the GNU
+LGPL v3: you may replace or modify them, and reverse-engineer the app as far as needed
+to debug such changes.
+
+No warranty. The app is provided "as is", without warranty of any kind, express or
+implied, including the warranties of merchantability, fitness for a particular purpose
+and non-infringement. In no event shall the author be liable for any claim, damages or
+other liability arising from, out of or in connection with the app or its use.
